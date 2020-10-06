@@ -8,6 +8,7 @@ import "./App.css";
 import Header from "./Header/Header";
 import Customizer from "./Customizer/Customizer";
 import Cart from './Summary/Cart';
+import features from './store';
 
 
 
